@@ -1,1 +1,3 @@
-z*,.env,/artifacts/.
+.env
+/artifacts/
+z*
